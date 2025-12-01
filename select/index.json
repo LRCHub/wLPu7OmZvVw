@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "BREAK! (《时光代理人》三周年企划宣传曲)",
+  "base_artist": "AK刘彰",
+  "createdAt": "2025-12-01T06:02:35.407457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BREAK MY SOUL",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/01_BREAK_MY_SOUL_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break On Me",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Break_On_Me_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break Up In A Bar",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/03_Break_Up_In_A_Bar_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want To Break Free",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_I_Want_To_Break_Free_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break",
+      "artist": "Marcus King",
+      "has_synced": false,
+      "path": "select/05_Break_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Break It In",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/06_Break_It_In_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break Up In A Small Town",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/07_Break_Up_In_A_Small_Town_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break Up In A Small Town",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/08_Break_Up_In_A_Small_Town_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break Up in the End",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/09_Break_Up_in_the_End_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break Up with Him",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/10_Break_Up_with_Him_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break up Break Down",
+      "artist": "Krissy Feniak",
+      "has_synced": true,
+      "path": "select/11_Break_up_Break_Down_Krissy_Feniak.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Break It to My Heart",
+      "artist": "Tracy Lawrence",
+      "has_synced": false,
+      "path": "select/12_Can't_Break_It_to_My_Heart_Tracy_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Break It to My Heart",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/13_Can't_Break_It_to_My_Heart_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Break the Heart That Loves You",
+      "artist": "Margo Smith",
+      "has_synced": false,
+      "path": "select/14_Don't_Break_the_Heart_That_Loves_You_Margo_Smith.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Break Out Again Tonight",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/15_I'll_Break_Out_Again_Tonight_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Only You (Can Break My Heart)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/16_Only_You_(Can_Break_My_Heart)_Buck_Owens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break! Go!",
+      "artist": "DA PUMP",
+      "has_synced": false,
+      "path": "select/pl_01_Break!_Go!_DA_PUMP.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Break!",
+      "artist": "DA PUMP",
+      "has_synced": false,
+      "path": "select/pl_02_Break!_DA_PUMP.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Break! Go!",
+      "artist": "DA PUMP",
+      "has_synced": false,
+      "path": "select/pl_03_Break!_Go!_DA_PUMP.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Break!",
+      "artist": "DA PUMP",
+      "has_synced": false,
+      "path": "select/pl_04_Break!_DA_PUMP.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "BREAK!!!!!",
+      "artist": "DA PUMP",
+      "has_synced": false,
+      "path": "select/pl_05_BREAK!!!!!_DA_PUMP.txt"
+    }
+  ]
+}
